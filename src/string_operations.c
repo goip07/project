@@ -10,6 +10,8 @@ size_t my_strlen(char *s)
    return (p - s);
 }
 
+//wazzzaaaa
+
 int main(void)
 {
    char i;
